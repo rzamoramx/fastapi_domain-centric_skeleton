@@ -1,0 +1,2 @@
+# Security functions
+# Scope: global
